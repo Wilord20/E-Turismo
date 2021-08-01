@@ -8,7 +8,7 @@
 ### [Link al Tiktok](https://vm.tiktok.com/ZMdcwQgRP/)
 
 ### Diagrama de Azure
-(![Diagrama](https://user-images.githubusercontent.com/64934149/127763193-c94ba122-9b1b-4282-82c5-dab984c5aea5.png)
+![Diagrama](https://user-images.githubusercontent.com/64934149/127763193-c94ba122-9b1b-4282-82c5-dab984c5aea5.png)
 
 ### SLA Compuesto
 ![SLA](https://user-images.githubusercontent.com/64934149/127763253-12594473-f927-4232-958c-988f105eab38.png)
