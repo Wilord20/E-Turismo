@@ -5,7 +5,7 @@
 
 ### Una página web encargada de reactivar la economía turística en los pueblos mágicos y su falta de información
 
-### Link al Tiktok
+### [Link al Tiktok](https://vm.tiktok.com/ZMdcwQgRP/)
 
 ### Diagrama de Azure
 (![Diagrama](https://user-images.githubusercontent.com/64934149/127763193-c94ba122-9b1b-4282-82c5-dab984c5aea5.png)
